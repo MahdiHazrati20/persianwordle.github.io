@@ -1,0 +1,1 @@
+# persianwordle.github.io
