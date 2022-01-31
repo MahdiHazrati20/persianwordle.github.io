@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f637995.css",
+    "main.js": "/static/js/main.54246796.js",
+    "static/js/787.a454d76d.chunk.js": "/static/js/787.a454d76d.chunk.js",
+    "static/media/Shabnam.ttf": "/static/media/Shabnam.5b9b09c283c263361c6d.ttf",
+    "index.html": "/index.html",
+    "main.1f637995.css.map": "/static/css/main.1f637995.css.map",
+    "main.54246796.js.map": "/static/js/main.54246796.js.map",
+    "787.a454d76d.chunk.js.map": "/static/js/787.a454d76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f637995.css",
+    "static/js/main.54246796.js"
+  ]
+}
